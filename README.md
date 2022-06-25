@@ -1,7 +1,6 @@
 ### Hi there, I am Jay! 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-I am Full stack Android Developer and Machine Learning Enthusiast. :ma
-:man:
+![](https://komarev.com/ghpvc/?username=jay98a&color=blueviolet)
+I am Full stack Android Developer and Machine Learning Enthusiast.
 
 - 🔭 I’m currently working on Shoplifting Detection and SalesPerson Managment Application.
 - 🌱 I’m currently learning Kotlin.
